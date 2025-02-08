@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: catalog-service
+  IMAGE_NAME: edge-service
   GITHUB_USERNAME: anjelahovakimyan0
 
 jobs:
